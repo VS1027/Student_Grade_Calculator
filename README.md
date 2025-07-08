@@ -1,0 +1,2 @@
+# Student_Grade_Calculator
+A Java console application that allows users to input marks for multiple subjects, calculates the total marks and average percentage, and assigns a grade based on the percentage. It helps in evaluating academic performance quickly and efficiently.
